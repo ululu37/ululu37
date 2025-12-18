@@ -16,7 +16,7 @@ Mindset:
 
 ### 🧩 Tech Stack
 - **Backend:** Go (Echo), Rust (Axum), Node.js (Express)
-- **Architecture:** Clean Architecture, DDD
+- **Architecture:** Clean Architecture, DDD 
 - **Frontend:** Nuxt.js
 - **Infra:** Docker, Linux (Ubuntu), GitLab CI/CD, Networking
 
