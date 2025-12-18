@@ -1,28 +1,7 @@
-# Hi there 👋 I'm Moo!
-
-## 🌟 About Me
-I'm passionate about technology, programming, and learning new things.
-
-- 💻 Interested in Rust, AI, IoT
-- 🌱 Always learning
-- 🇹🇭 From Thailand
-
----
-
 ## 🛠 Skills
-### Programming Languages
-- Rust
-- TypeScript
-- JavaScript
+
+### Languages
+![My Skills](https://skillicons.dev/icons?i=rust,ts,js,python)
 
 ### Tools
-- Docker
-- AWS
-- Git
-
----
-
-## 🚀 Goals
-- Build cool projects with Rust
-- Create automation tools
-- Learn low-level systems
+![Tools](https://skillicons.dev/icons?i=docker,aws,git,linux)
