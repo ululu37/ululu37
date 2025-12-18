@@ -11,7 +11,7 @@ Mindset:
 - System Thinking
 - Performance & Scalability มาก่อน Framework
 - Clean, Maintainable Code
-
+- Simple & Well-Covered Testing
 ---
 
 ### 🧩 Tech Stack
