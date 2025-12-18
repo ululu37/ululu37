@@ -1,13 +1,13 @@
 ## 🛠 Skills
-### backend
+### Backend
   - node.js express
   - go echo
   - rust axum
   - domain diven design
   - clean arcitecture
-### frontend
+### Frontend
   - nuxt
-### infra
+### Infra
   - docker
   - linux ubuntu
   - devops gitlab ci/cd
