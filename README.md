@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Moo!
 
-<!--
-**ululu37/ululu37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I'm passionate about technology, programming, and learning new things.
 
-Here are some ideas to get you started:
+- 💻 Interested in Rust, AI, IoT
+- 🌱 Always learning
+- 🇹🇭 From Thailand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+### Programming Languages
+- Rust
+- TypeScript
+- JavaScript
+
+### Tools
+- Docker
+- AWS
+- Git
+
+---
+
+## 🚀 Goals
+- Build cool projects with Rust
+- Create automation tools
+- Learn low-level systems
