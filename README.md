@@ -8,14 +8,14 @@
 
 ---
 
-## 🧠 Mindset
+### 🧠 Mindset
 - System Thinking
 - Performance & Scalability มาก่อน Framework
 - Clean, Maintainable Code
 
 ---
 
-## 🧩 Tech Stack
+###🧩 Tech Stack
 - **Backend:** Go (Echo), Rust (Axum), Node.js (Express)
 - **Architecture:** Clean Architecture, DDD
 - **Frontend:** Nuxt.js
@@ -23,6 +23,6 @@
 
 ---
 
-## 🎯 Goal
+### 🎯 Goal
 เติบโตเป็น **Backend Engineer / System Architect**  
 และพัฒนาระบบที่รองรับผู้ใช้งานระดับ **Millions+**
