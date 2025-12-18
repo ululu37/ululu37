@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Puri
-#### 🌟 About Me
+### 🌟 About Me
 
 ผมชื่อ **Nattapong Chisisa** (ภูริ) อายุ 18 ปี  
 กำลังศึกษาอยู่ระดับ **ปวส. ปีที่ 1**
@@ -14,7 +14,7 @@ Mindset:
 
 ---
 
-#### 🧩 Tech Stack
+### 🧩 Tech Stack
 - **Backend:** Go (Echo), Rust (Axum), Node.js (Express)
 - **Architecture:** Clean Architecture, DDD
 - **Frontend:** Nuxt.js
@@ -22,6 +22,6 @@ Mindset:
 
 ---
 
-#### 🎯 Goal
+### 🎯 Goal
 เติบโตเป็น **Backend Engineer / System Architect**  
 และพัฒนาระบบที่รองรับผู้ใช้งานระดับ **Millions+**
